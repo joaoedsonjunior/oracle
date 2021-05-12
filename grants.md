@@ -36,7 +36,7 @@ begin
     dbms_output.put_line( ' ** Não há Object Grants '  || chr(13) || chr(10)) ;    
    end;
    
-  end loop;
+  end loop; 
   
 end;
 /
